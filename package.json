@@ -1,0 +1,15 @@
+{
+  "name": "Test-socket-multiplayer",
+  "version": "1.0.0",
+  "description": "test socket",
+  "scripts": {
+    "start": "node ."
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
